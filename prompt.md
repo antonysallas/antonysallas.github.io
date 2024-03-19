@@ -38,3 +38,9 @@ To begin, please ask any essential questions that will help you better understan
 ## Palette
 
 <https://coolors.co/palette/03045e-0077b6-00b4d8-90e0ef-caf0f8>
+
+<https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500>
+
+## Improve image quality
+
+<https://replicate.com/mv-lab/swin2sr>
